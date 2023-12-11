@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Welcome to GAIW 2023
-subtitle: A Workshop at AAMAS 2023
+title: Welcome to GAIW 2024
+subtitle: A Workshop at AAMAS 2024
 published: true
 ---
 <p style="text-align:center;"><img src="{{ 'img/gaiwcover.png' | relative_url }}" /></p>
