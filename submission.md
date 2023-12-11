@@ -5,6 +5,9 @@ published: true
 ---
 
 ## Important Dates
+* Submission Deadline: February 26, 2024 (AoE).
+* Acceptance Notification: March 28, 2024.
+* Camera Ready: April 15, 2024 (AoE).
 
 
 <!--
@@ -15,9 +18,26 @@ published: true
 -->
 
 ### Poster Printing
-
+TBD
 
 ## Submission Site and Details
+Authors should submit full papers electronically in PDF format at ([CMT Submission Link](https://cmt3.research.microsoft.com/GAIW2023))
 
+Please use the following command if you are using the AAMAS format from the website before the `\title` command.
+
+```
+\setcopyright{rightsretained}
+\acmConference[GAIW'24]{Appears at the 6th Games, Agents, and Incentives Workshop (GAIW-24). Held as part of the Workshops at the 22st International Conference on Autonomous Agents and Multiagent Systems.}{May 2024}{Auckland, New Zealand}{Abramowitz, Aziz, Dickerson, Hosseini, Mattei, Obraztsova, Rabinovich, Tsang, Wąs (Chairs)} 
+```
 
 ## Submission Details
+*Formatting Guidelines:* Please format papers according to the AAMAS 2024 format ([Details Link](https://www.aamas2024-conference.auckland.ac.nz/calls/submission-instruction/)). Optionally, one may submit in LNCS format as well.
+
+*Paper Length:* Papers can be at most 8 pages long in AAMAS format, or 12 pages long in LNCS format. Additional pages for may be used for references. Supplemental material can be appended at the end of the paper. However, reviewers are instructed to make their evaluations based on the main submission, and are not obligated to consult the supplemental material.
+
+*Multiple Submission:* To widen participation and encourage discussion, there will be no formal publication of workshop proceedings. We will, however, post the accepted papers online to the benefit of the participants to the workshop. Therefore, submission of preliminary work and papers to be submitted or in preparation for submission to other major venues in the field are encouraged.
+
+*Blind-ness:* We leave the option up to submitters (except for in the case of resubmitted work below) as to whether or not to submit single- or double- blind. If you wish to submit single blind only, please leave your name(s) on the submission. However, Easychair will be set to not reveal authors information to reviewers within the system.
+
+*Past Submissions:* In order to strike a balance between new work and work that may have been presented but not widely seen we ask that if authors want to submit published work they do so non-anonymously and clearly indicate when and where the work was published. We will only accept work which has been published in the last calendar year (e.g., IJCAI 2023, NeurIPS 2023, AAAI 2024, and any conference held after Feb. 2023).
+
