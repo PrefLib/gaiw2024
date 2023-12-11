@@ -4,7 +4,7 @@ title: Program
 published: true
 ---
 
-The 5th Games, Agents, and Incentives workshop will be held at AAMAS 2024
+The 6th Games, Agents, and Incentives workshop will be held at AAMAS 2024
 
 
 ## Full Schedule
