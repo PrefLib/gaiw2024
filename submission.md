@@ -21,7 +21,7 @@ published: true
 TBD
 
 ## Submission Site and Details
-Authors should submit full papers electronically in PDF format at ([CMT Submission Link](https://cmt3.research.microsoft.com/GAIW2023))
+Authors should submit full papers electronically in PDF format at (TBD)
 
 Please use the following command if you are using the AAMAS format from the website before the `\title` command.
 
