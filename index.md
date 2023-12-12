@@ -26,26 +26,19 @@ Games, Agents and Incentives is a confederated workshop which focuses (obviously
 
 Over the past two decades, the focus of agent incentives in centralised and decentralised AI systems has increased dramatically. These issues come up when designing preference aggregation mechanisms and markets; computing equilibria and bidding strategies; facilitating cooperation among agents; and fairly dividing resources.
 
-<!--
 ## Important Dates
-* Submission Deadline: ~~February 24, 2023~~ February 27, 2023 (AoE) -- [2023 GAIW Submission Site on CMT](https://cmt3.research.microsoft.com/GAIW2023)
-* Acceptance Notification: March 26, 2023
-* Camera Ready: April 15, 2023 (AoE)
-* AAMAS Conference: Monday, May 29 - Friday, June 2 in the London ExCeL conference centre, London, UK
-* GAIW Workshop (WS09): Tuesday, May 30 in Room 2
-
-
-* Workshop Talk Session 1: TBD.
-* Workshop Talk  Session 2: TBD.
-* Poster Session 1: TBD.
-* Poster Session 2: TBD.
--->
-
+* Submission Deadline: February 26, 2024 (AoE)
+* Acceptance Notification: March 28, 2024
+* Camera Ready: April 15, 2024 (AoE)
+* AAMAS Conference: May 6 - May 10, 2024
+* GAIW Workshop (WS09): May 6 or May 7, 2024
+  
 ---
 
 ## Important Links:
 * [Invitation Letter Request Form for Visas](https://docs.google.com/forms/d/e/1FAIpQLSfImrBpc1mtcEypalnbvQ4gMRCgeYW92cWMGSPUYD8bcogpEQ/viewform)
-* [AAMAS 2023 Conference Website](https://aamas2023.soton.ac.uk/) and [Program Overview](https://aamas2023.soton.ac.uk/program/program-overview/)
+* [AAMAS 2024 Conference Website](https://www.aamas2024-conference.auckland.ac.nz/)
+* [5th GAIW Website (2023)](https://preflib.github.io/gaiw2023/)
 * [GAIW 2022 Program Recording](https://youtu.be/HAb1wDhZg-g)
 * [4th GAIW Website (2022)](https://preflib.github.io/gaiw2022/)
 * [3rd GAIW Website (2021)](https://preflib.github.io/gaiw2021/)
