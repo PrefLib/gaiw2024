@@ -37,7 +37,7 @@ Please use the following command if you are using the AAMAS format from the webs
 
 *Multiple Submission:* To widen participation and encourage discussion, there will be no formal publication of workshop proceedings. We will, however, post the accepted papers online to the benefit of the participants to the workshop. Therefore, submission of preliminary work and papers to be submitted or in preparation for submission to other major venues in the field are encouraged.
 
-*Blind-ness:* We leave the option up to submitters (except for in the case of resubmitted work below) as to whether or not to submit single- or double- blind. If you wish to submit single blind only, please leave your name(s) on the submission. However, Easychair will be set to not reveal authors information to reviewers within the system.
+*Anonymity:* We leave the option up to submitters (except for in the case of resubmitted work below) as to whether or not to submit single- or double- anonymous. If you wish to submit single anonymous only (i.e., authors names are revealed), please leave your name(s) on the submission. However, the submission system will be set to not reveal authors information to reviewers within the system.
 
 *Past Submissions:* In order to strike a balance between new work and work that may have been presented but not widely seen we ask that if authors want to submit published work they do so non-anonymously and clearly indicate when and where the work was published. We will only accept work which has been published in the last calendar year (e.g., IJCAI 2023, NeurIPS 2023, AAAI 2024, and any conference held after Feb. 2023).
 
