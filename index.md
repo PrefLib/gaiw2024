@@ -36,6 +36,7 @@ Over the past two decades, the focus of agent incentives in centralised and dece
 ---
 
 ## Important Links:
+* [GAIW 2024 Submission Link](https://cmt3.research.microsoft.com/GAIW2024)
 * [Invitation Letter Request Form for Visas](https://docs.google.com/forms/d/e/1FAIpQLSfImrBpc1mtcEypalnbvQ4gMRCgeYW92cWMGSPUYD8bcogpEQ/viewform)
 * [AAMAS 2024 Conference Website](https://www.aamas2024-conference.auckland.ac.nz/)
 * [5th GAIW Website (2023)](https://preflib.github.io/gaiw2023/)
